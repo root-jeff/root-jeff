@@ -10,6 +10,6 @@ jobs:
     name: Update README with Recent Activity
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: Readme-Workflows/recent-activity@v1.1.0
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
