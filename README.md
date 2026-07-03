@@ -37,11 +37,11 @@ Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me
 ### ⚡ Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/root-jeff/Sotang-Documentation/pull/9) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
-2. 💪 Opened PR [#9](https://github.com/root-jeff/Sotang-Documentation/pull/9) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
-3. 🎉 Merged PR [#8](https://github.com/root-jeff/Sotang-Documentation/pull/8) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
-4. 💪 Opened PR [#8](https://github.com/root-jeff/Sotang-Documentation/pull/8) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
-5. 🎉 Merged PR [#7](https://github.com/root-jeff/Sotang-Documentation/pull/7) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
+1. 🎉 Merged PR [#11](https://github.com/root-jeff/Sotang-Documentation/pull/11) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
+2. 💪 Opened PR [#11](https://github.com/root-jeff/Sotang-Documentation/pull/11) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
+3. 🎉 Merged PR [#10](https://github.com/root-jeff/Sotang-Documentation/pull/10) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
+4. 💪 Opened PR [#10](https://github.com/root-jeff/Sotang-Documentation/pull/10) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
+5. 🎉 Merged PR [#9](https://github.com/root-jeff/Sotang-Documentation/pull/9) in [root-jeff/Sotang-Documentation](https://github.com/root-jeff/Sotang-Documentation)
 <!--END_SECTION:activity-->
 
 ---
