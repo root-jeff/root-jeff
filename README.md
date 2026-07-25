@@ -27,10 +27,10 @@ Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me
 
 ### 📊 Estadísticas GitHub
 
-![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=root-jeff&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=root-jeff&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=root-jeff&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=root-jeff&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-jeff&layout=compact&theme=tokyonight)
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=root-jeff&theme=tokyonight)
 
 ---
 
