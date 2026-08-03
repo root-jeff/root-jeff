@@ -37,11 +37,11 @@ Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me
 ### ⚡ Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/elnaojeffer/Sotang-Api/pull/6) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
-2. 💪 Opened PR [#6](https://github.com/elnaojeffer/Sotang-Api/pull/6) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
-3. 🎉 Merged PR [#5](https://github.com/elnaojeffer/Sotang-Api/pull/5) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
-4. 💪 Opened PR [#5](https://github.com/elnaojeffer/Sotang-Api/pull/5) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
-5. 🎉 Merged PR [#4](https://github.com/elnaojeffer/Sotang-Api/pull/4) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
+1. 🎉 Merged PR [#9](https://github.com/elnaojeffer/Sotang-Api/pull/9) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
+2. 💪 Opened PR [#9](https://github.com/elnaojeffer/Sotang-Api/pull/9) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
+3. 🎉 Merged PR [#8](https://github.com/elnaojeffer/Sotang-Api/pull/8) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
+4. 💪 Opened PR [#8](https://github.com/elnaojeffer/Sotang-Api/pull/8) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
+5. 🎉 Merged PR [#7](https://github.com/elnaojeffer/Sotang-Api/pull/7) in [elnaojeffer/Sotang-Api](https://github.com/elnaojeffer/Sotang-Api)
 <!--END_SECTION:activity-->
 
 ---
