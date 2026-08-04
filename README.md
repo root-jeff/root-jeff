@@ -4,14 +4,9 @@
 
 ### 🚀 Sobre mí
 
-Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me especializo en backend moderno, automatización y despliegue continuo.
+Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me gusta el backend moderno y automatizar cosas.
 
-🔧 Últimos 6 meses:
-- 🔹 Flask, FastAPI, Angular, Python
-- 🔹 Jenkins, Docker, CI/CD pipelines
-- 🔹 Automatización de sistemas con notificaciones (WhatsApp + email)
-
-💡 Disfruto crear soluciones útiles, escribir código limpio y trabajar con buenas prácticas técnicas y de equipo.
+Disfruto crear soluciones útiles, escribir código limpio y trabajar con buenas prácticas técnicas y de equipo.
 
 ---
 
@@ -19,8 +14,8 @@ Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me
 
 - **Lenguajes:** Python · C# · JavaScript · TypeScript  
 - **Frontend:** Angular · React Native  
-- **Backend:** .NET Core · Flask · FastAPI  
-- **DevOps:** Jenkins · Docker · GitHub Actions · GitLab CI  
+- **Backend:** .NET Core · Flask · FastAPI · NodeJS
+- **DevOps:** Jenkins · Docker · GitHub Actions · GitLab CI · Harness  
 - **Otros:** SQL · Swagger · Postman · Entity Framework
 
 ---
