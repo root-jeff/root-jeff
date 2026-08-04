@@ -27,10 +27,10 @@ Soy desarrollador de software con experiencia en aplicaciones móviles y web. Me
 
 ### 📊 Estadísticas GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=root-jeff&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=root-jeff&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=root-jeff&theme=tokyonight)
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=root-jeff&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elnaojeffer&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elnaojeffer&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elnaojeffer&theme=tokyonight)
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=elnaojeffer&theme=tokyonight)
 
 ---
 
